@@ -1,0 +1,13 @@
+package com.damaraapi;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class DamaraApiApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(DamaraApiApplication.class, args);
+	}
+
+}
